@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <NuxtImg
+      quality="100"
+      width="500"
+      src="/example.jpg"
+      alt="pony"
+    />
+  </div>
+</template>
